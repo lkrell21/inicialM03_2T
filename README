@@ -1,58 +1,85 @@
-MP03 Grup 2T
-Avaluació Inicial
-Nom i cognoms:
-Marca les UFs de primer d'aquest mòdul que tens superades:
+# MP03 Grup 2T
+# Avaluació Inicial
 
-a- UF1
+### Nom i cognoms:
 
-b- UF2
+1. Marca les UFs de primer d'aquest mòdul que tens superades:
 
-c- UF3
+    a- UF1
 
-Has programat abans de començar els estudis de DAW? On? Quant de temps?
+    b- UF2
 
-Resposta:
+    c- UF3
 
-Què és compilar un programa?
+2. Has programat abans de començar els estudis de DAW? On? Quant de temps?
 
-Resposta:
+    Resposta: 
+    
+    
+    -
 
-Què és un llenguatge interpretat i en què es diferencia d'un llenguatge compilat?
 
-Resposta:
+3. Què és compilar un programa?
 
-Quins llenguatges de programació has fet servir?
+    Resposta:
+    
+    
+    -
 
-Resposta:
+4. Què és un llenguatge interpretat i en què es diferencia d'un llenguatge compilat?
 
-Quina diferència hi ha entre un lleguatge de programació d’alt nivell i un de baix nivell?
+    Resposta:
 
-Resposta:
 
-Explica què és un algorisme.
+    -
 
-Resposta:
+5. Quins llenguatges de programació has fet servir?
 
-En el món de la programació Orientada a Objecte, digues quina diferència hi ha entre:
+    Resposta: 
 
-a- Una classe i un objecte
 
-b- Una funció i un mètode
+6. Quina diferència hi ha entre un lleguatge de programació d’alt nivell i un de baix nivell?
 
-Resposta d'a:
+    Resposta: 
 
-Resposta de b:
 
-Feu un programa, amb el llenguatge de programació que vulgueu, que calculi l’àrea d’un quadrat i mostri el resultat per pantalla.
+    -
 
-(Escriu la resposta al darrere del full)
+7. Explica què és un algorisme.
 
-Feu un programa (amb el llenguatge de programació que vulgueu) que, donat un número qualsevol, imprimeixi la seva taula de multiplicar.
+    Resposta:
 
-(Escriu la resposta al darrere del full)
 
-Quin és el resultat d'executar el següent programa?
+    -
 
+8. En el món de la programació Orientada a Objecte, digues quina diferència hi ha entre:
+
+    a- Una classe i un objecte
+
+    b- Una funció i un mètode
+    
+    
+    Resposta d'a:
+
+
+    -
+
+    Resposta de b:
+
+
+    -
+
+9. Feu un programa, amb el llenguatge de programació que vulgueu, que calculi l’àrea d’un quadrat i mostri el resultat per pantalla.
+
+    (Escriu la resposta al darrere del full)
+
+9. Feu un programa (amb el llenguatge de programació que vulgueu) que, donat un número qualsevol, imprimeixi la seva taula de multiplicar.
+
+    (Escriu la resposta al darrere del full)
+
+10. Quin és el resultat d'executar el següent programa?
+
+```java
 public class Vehicle{
     public boolean used;
     public String make;
@@ -66,8 +93,10 @@ public class Vehicle{
         }
     }
 }
-a - null
-b - 0
-c - Hi ha un error de compilació a la línia 7
-d - La línia 8 genera un error d'execució
-e - La línia 10 genera un error d'execució
+```
+
+    a - null
+    b - 0
+    c - Hi ha un error de compilació a la línia 7
+    d - La línia 8 genera un error d'execució
+    e - La línia 10 genera un error d'execució
